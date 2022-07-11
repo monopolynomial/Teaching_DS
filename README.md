@@ -1,1 +1,1 @@
-# Teaching_DS
+# Teaching/Learning Data Science
